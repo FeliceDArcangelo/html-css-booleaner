@@ -87,3 +87,8 @@ table{
     font-size: 25px;
     color: white;
 }
+
+.margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
