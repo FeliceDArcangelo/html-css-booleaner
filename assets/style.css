@@ -1,15 +1,89 @@
+h1 {
+    font-size: 55px;
+    padding: 0px;
+}
+
+
 header {
     background-image: url(../img/pattern.png);
     background-color: rgb(28, 175, 255);
-    background-size: 300px;
+    background-size: 400px;
     box-sizing:content-box;
 
     
 }
 
 .logo {
-    width: 150px;
-    height: 50px;
+    width: 200px;
+    height: 75px;
     padding-top: 20px;
     padding-left: 5px;
+}
+
+
+.down-title {
+    color: rgb(118, 116, 116);
+}
+
+.size-data {
+    font-size: 16px;
+}
+
+#written-by{
+    color: rgb(82, 201, 249);
+}
+
+#john-pic{
+    width: 50%;
+}
+
+#wiki-pic{
+    width: 42.8%;
+}
+
+.img-description{
+    font-size: 10px;
+}
+
+.highlighter{
+    background-color: rgb(248, 248, 83);
+}
+
+table{
+    border-spacing: 0px;
+}
+
+.table{
+    width: 400px;
+}
+
+.main{
+    text-align: left;
+    color: white;
+    background-color: rgb(19, 188, 255);
+}
+
+.table-color{
+    background-color: rgb(130, 242, 242);
+}
+
+
+#final-img-1{
+    background-image: url(../img/monitor.jpg);
+    width: 260px;
+    padding-bottom: 180px;
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 25px;
+    color: white;
+}
+
+#final-img-2{
+    background-image: url(../img/graph.jpg);
+    width: 260px;
+    padding-bottom: 180px;
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 25px;
+    color: white;
 }
